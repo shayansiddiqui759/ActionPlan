@@ -1,0 +1,16 @@
+{
+    "mistral":  { 
+            "name": "Misrtal",
+            "id": 1,
+            "desc": "",
+            "model": "mistral-large-latest",
+            "env_api_path": "MISTRAL_API_KEY"
+    },
+    "deepseek":  { 
+            "name": "DeepSeek",
+            "id": 2,
+            "desc": "",
+            "model": "deepseek-chat",
+            "env_api_path": "DEEPSEEK_API_KEY"
+    }
+}

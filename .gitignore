@@ -1,0 +1,25 @@
+# Environment variables
+*.env
+
+# Specific files
+actionplan - whole.txt
+essay.txt
+test.txt
+demo.py
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
